@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace repro_netcore_netfxtest
+namespace netfx_test_x86
 {
     public class UnitTest1
     {
